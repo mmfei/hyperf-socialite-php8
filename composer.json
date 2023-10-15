@@ -1,5 +1,5 @@
 {
-    "name": "onix-systems-php/hyperf-socialite",
+    "name": "xtwoend/hyperf-socialite",
     "type": "extension",
     "description": "Hyperf wrapper around OAuth 1 & OAuth 2 libraries.",
     "keywords": ["oauth", "hyperf"],
